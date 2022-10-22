@@ -1,3 +1,4 @@
 {
-    "port": 5050
+    "port": 5050,
+    "mongoUri": "mongodb://localhost:27017/MERN-Fullstack-App_2019"
 }
